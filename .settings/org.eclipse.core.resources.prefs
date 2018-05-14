@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/shop/description.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/shop/old/index.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/user/certified.jsp=UTF-8
+encoding//src/org/guet/exam/base/DaoSupport.java=UTF-8
+encoding//src/org/guet/exam/base/DaoSupportImpl.java=UTF-8
+encoding//src/org/guet/exam/config/Configuration.java=UTF-8
+encoding//src/org/guet/exam/util/PageBean.java=UTF-8
+encoding//src/org/guet/exam/util/QueryHelper.java=UTF-8
+encoding//src/org/guet/exam/util/Sha1Util.java=UTF-8
+encoding//src/org/guet/exam/util/XMLUtil.java=UTF-8
+encoding/<project>=UTF-8

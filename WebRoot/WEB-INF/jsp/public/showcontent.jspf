@@ -1,0 +1,21 @@
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+
+<form id="fo" action="content.jsp" method="post">
+	 <input id="content" type="hidden" name="content" > 
+	 <input id="title" type="hidden" name="title" > 
+	 <input id="heat" type="hidden" name="heat" > 
+	 <input id="time" type="hidden" name="time" >
+	 <input id="imgpath" type="hidden" name="imgpath" >
+</form>
+
+<script type="text/javascript">
+	function content(title,time,heat,imgpath,content) {
+		// $("#content").attr("value",content);
+		$("#title").attr("value",title);
+		$("#heat").attr("value",heat);
+		$("#time").attr("value",time);
+		$("#imgpath").attr("value",imgpath); 
+		$("#fo").submit();
+	}
+	
+</script>
